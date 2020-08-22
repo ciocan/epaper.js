@@ -7,7 +7,9 @@
             "sources": [ 
                 "./c/EPD_4in2_node.cc",
                 "./c/DEV_Config.c",
-                "./c/EPD_4in2.c"
+                "./c/EPD_4in2.c",
+                "./c/EPD_7in5bc.c",
+                "./c/EPD_7in5bc_node.cc"
             ],
             "defines": [
                 "RPI",
