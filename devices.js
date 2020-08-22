@@ -11,6 +11,11 @@ const devices = {
     width: 640,
     driver: waveshare4In2Driver,
   },
+  waveshare7in5: {
+    height: 384,
+    width: 640,
+    driver: waveshare4In2Driver,
+  },
 }
 
 module.exports = devices
